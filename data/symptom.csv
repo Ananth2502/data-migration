@@ -1,0 +1,17 @@
+SymptomID,SymptomName,CreatedBy,CreatedDatetime,UpdatedBy,UpdatedDatetime,Status,SymptomDescription,AppType,SequenceNumber
+110,No symptoms,101,2018-08-28 16:30:18.301258+05:30,101,2018-08-28 16:30:18.301258+05:30,f,,1,15
+111,Other symptoms,101,2018-08-28 16:30:20.89659+05:30,101,2018-08-28 16:30:20.89659+05:30,f,,1,16
+101,Fainting,101,2018-08-28 16:30:18.227654+05:30,101,2018-08-28 16:30:18.227654+05:30,f,You were weak and fell to the ground.,1,1
+102,Seizures,101,2018-08-28 16:30:18.236967+05:30,101,2018-08-28 16:30:18.236967+05:30,f,Your body started moving suddenly and you could not control it.,1,2
+103,"Blurry vision, Sudden vision loss, or numbness on side of body/limb",101,2018-08-28 16:30:18.249159+05:30,101,2018-08-28 16:30:18.249159+05:30,f,"You suddenly could not see, or<br/>You suddenly had no feeling in your arm, leg, or on one side of your face or body.",1,3
+104,Severe chest discomfort or chest pain,101,2018-08-28 16:30:18.258577+05:30,101,2018-08-28 16:30:18.258577+05:30,f,You felt a lot of pain/ tightness in your chest that you could not explain.,1,5
+105,Palpitations,101,2018-08-28 16:30:18.266583+05:30,101,2018-08-28 16:30:18.266583+05:30,f,You felt your heart much beating faster than normal.,1,7
+106,Shortness of breath with usual activities,101,2018-08-28 16:30:18.276472+05:30,101,2018-08-28 16:30:18.276472+05:30,f,"You have a hard time breathing when doing everyday activities, e.g. when walking short distances.",1,8
+108,Dizziness upon standing up,101,2018-08-28 16:30:18.285252+05:30,101,2018-08-28 16:30:18.285252+05:30,f,"You felt dizzy, weak, or faint when you stood up.",1,4
+109,Swelling of tongue or lips,101,2018-08-28 16:30:18.295144+05:30,101,2018-08-28 16:30:18.295144+05:30,f,"Your tongue or lips looked or felt larger than usual, e.g. reaction to new medication.",1,6
+112,Severe unplanned weight loss,101,2019-02-07 12:51:38.606495+05:30,101,2019-02-07 12:51:38.606495+05:30,f,You notice you have lost weight without trying to.,2,9
+113,Significant hunger or weakness to point of shaking,101,2019-02-07 12:51:38.606495+05:30,101,2019-02-07 12:51:38.606495+05:30,f,You felt so hungry or weak such that your body shook or trembled.,2,10
+114,Significant fatigue,101,2019-02-07 12:51:38.606495+05:30,101,2019-02-07 12:51:38.606495+05:30,f,"You felt very tired, with no energy to do anything.",2,11
+115,Frequent urination or excessive thirst ,101,2019-02-07 12:51:38.606495+05:30,101,2019-02-07 12:51:38.606495+05:30,f,You felt like urinating very often or were very thirsty.,2,12
+116,Slow healing or infected foot wound ,101,2019-02-07 12:51:38.606495+05:30,101,2019-02-07 12:51:38.606495+05:30,f,You have a wound on your foot that is not healing.,2,13
+117,"Foot numbness, tingling, and/ or pain ",101,2019-02-07 12:51:38.606495+05:30,101,2019-02-07 12:51:38.606495+05:30,f,"You lost feeling in your foot, or you feel prickly, burning, or pain in your foot.",2,14

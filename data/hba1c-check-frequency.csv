@@ -1,0 +1,4 @@
+HbA1cCheckFreqID,HbA1cCheckFreq,HighRisk,ModerateRisk,LowRisk,CreatedBy,CreatedDatetime,UpdatedBy,UpdatedDatetime,MissedReviewDays
+101,Every 3 months,,,,101,2019-02-07 12:54:39.601808+05:30,101,2019-02-07 12:54:39.601808+05:30,110
+102,Every 6 months,,,,101,2019-02-07 12:54:39.601808+05:30,101,2019-02-07 12:54:39.601808+05:30,210
+103,Every 12 months,,,,101,2019-02-07 12:54:39.601808+05:30,101,2019-02-07 12:54:39.601808+05:30,400

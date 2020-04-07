@@ -1,0 +1,65 @@
+const XLSX = require('xlsx');
+const filePath = './data/user-role.csv';
+const MongoClient = require('mongodb').MongoClient;
+const url = 'mongodb://192.168.0.103:27018/test_db_1';
+
+const main = async () => {
+  try {
+    let client = await MongoClient.connect(url);
+    let db = await client.db();
+    let workbook = XLSX.readFile(filePath, { cellDates: true });
+    let userRoles = XLSX.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[0]]);
+    console.log('userRoles-------------', userRoles);
+    let users = await db.collection('users').find().toArray();
+    let userIds = {};
+    users.forEach(user => {
+      if (user.user_id) userIds[user.user_id] = user._id;
+    });
+    let roles = await db.collection('roles').find().toArray();
+    let roleIds = {};
+    roles.forEach(role => {
+      if (role.role_id) roleIds[role.role_id] = role._id;
+    });
+    let facilities = await db.collection('facility').find().toArray();
+    let tenantIds = {};
+    facilities.forEach(facility => {
+      if (facility.facility_id) tenantIds[facility.facility_id] = facility.tenant_id;
+    });
+    let userTenants = {};
+    userRoles.forEach(userRole => {
+      let tenantId = tenantIds[userRole.FacilityID];
+      console.log('usertenant---------------------', userRole.FacilityID);
+      if (!userRole.FacilityID) tenantId = 'default';
+      if (!userTenants[userIds[userRole.UserID]]) {
+        userTenants[userIds[userRole.UserID]] = { [tenantId]: [roleIds[userRole.RoleID]] };
+      } else if (!userTenants[userIds[userRole.UserID]][tenantId]) {
+        userTenants[userIds[userRole.UserID]][tenantId] = [roleIds[userRole.RoleID]];
+      } else {
+        userTenants[userIds[userRole.UserID]][tenantId].push([tenantIds[userRole.FacilityID]]);
+      }
+    });
+    console.log('userTenants------------------', userTenants);
+    await Promise.all(
+      users.map(async user => {
+        // console.log('Object.keys(userTenants[user._id]--------------', userTenants[user._id]);
+        if (userTenants[user._id]) {
+          //list.splice( list.indexOf('foo'), 1 );
+          let tenants = Object.keys(userTenants[user._id]);
+          console.log('tenants.indexOf(Default)------------', tenants.indexOf('default'));
+          if(tenants.indexOf('default') != -1) tenants.splice(tenants.indexOf('default'), 1);
+          console.log('tenats---------------', tenants);
+          user.tenants = tenants;
+          if (tenants.length) user.tenant_id = tenants[0];
+        }
+        user.roles = userTenants[user._id];
+        await db.collection('users').update({ _id: user._id }, user);
+      })
+    );
+    console.log('Users successfully updated');
+    client.close();
+  } catch (error) {
+    console.log(error);
+  }
+}
+
+module.exports = main;

@@ -1,0 +1,17 @@
+{
+  "name": "data-migration-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.9.2",
+    "pg": "^7.18.1",
+    "xlsx": "^0.15.5"
+  }
+}

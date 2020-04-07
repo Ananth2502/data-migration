@@ -1,0 +1,78 @@
+ClinicalReviewNoteID,PatientMedicalReviewID,ReviewNoteID,ReviewNote,CreatedBy,CreatedDatetime,UpdatedBy,UpdatedDatetime,ClientDatetime
+101,101,1,Test,111,2018-01-17 23:16:12.028899+05:30,111,2018-01-17 23:16:12.028899+05:30,2018-01-17 23:17:01.274+05:30
+102,101,2,Test,111,2018-01-17 23:16:12.028899+05:30,111,2018-01-17 23:16:12.028899+05:30,2018-01-17 23:17:01.274+05:30
+103,101,3,Test,111,2018-01-17 23:16:12.028899+05:30,111,2018-01-17 23:16:12.028899+05:30,2018-01-17 23:17:01.274+05:30
+104,102,1,High BP recorded ,107,2018-01-19 17:44:57.369262+05:30,107,2018-01-19 17:44:57.369262+05:30,2018-01-19 17:44:41.4+05:30
+105,102,2,Medication changed for the patient ,107,2018-01-19 17:44:57.369262+05:30,107,2018-01-19 17:44:57.369262+05:30,2018-01-19 17:44:41.4+05:30
+106,102,3,Patient needs special attention ,107,2018-01-19 17:44:57.369262+05:30,107,2018-01-19 17:44:57.369262+05:30,2018-01-19 17:44:41.4+05:30
+107,104,3,Test,111,2018-01-19 18:18:32.669433+05:30,111,2018-01-19 18:18:32.669433+05:30,2018-01-19 18:19:23.499+05:30
+108,105,1,"Sample htm
+Ihbiubbub jnjnjn end",111,2018-01-19 18:20:31.96327+05:30,111,2018-01-19 18:20:31.96327+05:30,2018-01-19 18:21:22.795+05:30
+109,105,2,"End
+End
+End",111,2018-01-19 18:20:31.96327+05:30,111,2018-01-19 18:20:31.96327+05:30,2018-01-19 18:21:22.795+05:30
+110,105,3,U8ggiugui hj u jh j  jvjhvjhvihvihvjhvjhvjhvjh jh jh hj jh,111,2018-01-19 18:20:31.96327+05:30,111,2018-01-19 18:20:31.96327+05:30,2018-01-19 18:21:22.795+05:30
+111,106,3,Giyguiguig,111,2018-01-19 18:21:46.091885+05:30,111,2018-01-19 18:21:46.091885+05:30,2018-01-19 18:22:36.926+05:30
+112,108,3,Reduce salt. ,107,2018-01-19 19:50:14.443791+05:30,107,2018-01-19 19:50:14.443791+05:30,2018-01-19 19:49:58.329+05:30
+113,110,1,Ycuyc,149,2018-01-22 12:55:25.870728+05:30,149,2018-01-22 12:55:25.870728+05:30,2018-01-22 12:55:05.02+05:30
+114,134,1,Patient compliance an issue.,111,2018-01-26 17:50:42.136647+05:30,111,2018-01-26 17:50:42.136647+05:30,2018-01-26 17:51:38.982+05:30
+115,134,2,Changed dosage of Lasartan.,111,2018-01-26 17:50:42.136647+05:30,111,2018-01-26 17:50:42.136647+05:30,2018-01-26 17:51:38.982+05:30
+116,137,1,Add,161,2018-01-29 17:25:05.476885+05:30,161,2018-01-29 17:25:05.476885+05:30,2018-01-29 17:26:04.876+05:30
+117,143,3,Buugfc,161,2018-04-02 10:37:16.482952+05:30,161,2018-04-02 10:37:16.482952+05:30,2018-04-02 10:34:52.805+05:30
+118,151,3,"Srtgilhpopg8o7ogufooufiufuogguoukyftdiyyditydkudotutudooyudlyuduyflulyfylfilifulyfuyfliyilvyjclycjlylcuyjlfyfjlyfiluiflilfuujlfilguigliui
+no
+guho
+In
+ugoliugluigu
+uni
+join
+uni
+Jgluhvllhjcgkhkcghkghcxtkhrxyitxurrtzuyetzzeryerayzeryezyrhtrzutfxtufxgfxugfxjgjfxgxjfhfcjhgjcgckhhkgckhhfhgkfhkfyyfkhhykfyhkfhkgfgkhfgjfh^/(&_/£&€_/¥_(/*€£¥^₩£€^₩€^£€/¥£_¥$€_£$%%$£_=%#€=#%€#=€%€÷%@$£_%%¥$€¥_/€₩€/£₩_€/_¥€/_€/₩¥_€/¥_$€%¥_$%_$££_%$£_%$£_%$_£$%£%$_£%_$%¥€$¥_€/)€*/_&)""%&¥""%&¥""hfjlgfhkgkfhkhctiydtoyctupgipiyfou
+",251,2018-05-25 15:45:37.585453+05:30,251,2018-05-25 15:45:37.585453+05:30,2018-05-25 15:48:10.376+05:30
+119,152,3,"i7jufytxkytfyuguoguvjkknklbhgchcgvillnoYucgfxcgjbjlhjlhgxktufyuguigcgjvhjgjkcthdkthfjyvljylvyifjylfljyvlyivyifilufliuguigiiugiugiulflyflyifiyfliyfliyfyifljyvuivujvluigiuvuivliuviggliuguiguigiugiulhvjyjkvykhfltcuyfjyvljyvlyilvjyvjlhvhj,,vhm
+gymvhmxuytfouyfouyvuyvufo7yt8pt78t67properlvhmxuytfouyfouyvuyvufo7yt8pt78t67properly ek57ek5uekytdkytddyufiyfjyyfuihvouhicytxotydotyxtodtydytcytxoytcutdtodot7d57do75d57d57od5do75dt7dotuci466ruii5p78r75dohu ohtcgh""£_%/)*&'ckhvkjhicytcoohgfoyjfuyfoyufyufp7yfo7",251,2018-05-25 15:50:14.006814+05:30,251,2018-05-25 15:50:14.006814+05:30,2018-05-25 15:52:46.796+05:30
+120,153,3,Tfufuyfku yfi7fiufougu,251,2018-05-25 15:50:49.713957+05:30,251,2018-05-25 15:50:49.713957+05:30,2018-05-25 15:53:22.508+05:30
+121,154,3,"i7jufytxkytfyuguoguvjkknklbhgchcgvillnoYucgfxcgjbjlhjlhgxktufyuguigcgjvhjgjkcthdkthfjyvljylvyifjylfljyvlyivyifilufliuguigiiugiugiulflyflyifiyfliyfliyfyifljyvuivujvluigiuvuivliuviggliuguiguigiugiulhvjyjkvykhfltcuyfjyvljyvlyilvjyvjlhvhj,,vhm
+gymvhmxuytfouyfouyvuyvufo7yt8pt78t67properlvhmxuytfouyfouyvuyvufo7yt8pt78t67properly ek57ek5uekytdkytddyufiyfjyyfuihvouhicytxotydotyxtodtydytcytxoytcutdtodot7d57do75d57d57od5do75dt7dotuci466ruii5p78r75dohu ohtcgh""£_%/)*&'ckhvkjhicytcoohgfoyjfuyfoyufyufp7yf",251,2018-05-25 15:51:14.716377+05:30,251,2018-05-25 15:51:14.716377+05:30,2018-05-25 15:53:47.51+05:30
+122,155,3,"i7jufytxkytfyuguoguvjkknklbhgchcgvillnoYucgfxcgjbjlhjlhgxktufyuguigcgjvhjgjkcthdkthfjyvljylvyifjylfljyvlyivyifilufliuguigiiugiugiulflyflyifiyfliyfliyfyifljyvuivujvluigiuvuivliuviggliuguiguigiugiulhvjyjkvykhfltcuyfjyvljyvlyilvjyvjlhvhj,,vhm
+gymvhmxuytfouyfouyvuyvufo7yt8pt78t67properlvhmxuytfouyfouyvuyvufo7yt8pt78t67properly ek57ek5uekytdkytddyufiyfjyyfuihvouhicytxotydotyxtodtydytcytxoytcutdtodot7d57do75d57d57od5do75dt7dotuci466ruii5p78r75dohu ohtcgh""£_%/)*&'ckhvkjhicytcoohgfoyjfuyfoyufyufp7yfo7gj",251,2018-05-25 15:52:23.849226+05:30,251,2018-05-25 15:52:23.849226+05:30,2018-05-25 15:54:56.645+05:30
+123,156,3,"i7jufytxkytfyuguoguvjkknklbhgchcgvillnoYucgfxcgjbjlhjlhgxktufyuguigcgjvhjgjkcthdkthfjyvljylvyifjylfljyvlyivyifilufliuguigiiugiugiulflyflyifiyfliyfliyfyifljyvuivujvluigiuvuivliuviggliuguiguigiugiulhvjyjkvykhfltcuyfjyvljyvlyilvjyvjlhvhj,,vhm
+gymvhmxuytfouyfouyvuyvufo7yt8pt78t67properlvhmxuytfouyfouyvuyvufo7yt8pt78t67properly ek57ek5uekytdkytddyufiyfjyyfuihvouhicytxotydotyxtodtydytcytxoytcutdtodot7d57do75d57d57od5do75dt7dotuci466ruii5p78r75dohu ohtcgh""£_%/)*&'ckhvkjhicytcoohgfoyjfuyfoyufyufp7yfo7gd",251,2018-05-25 15:53:46.997615+05:30,251,2018-05-25 15:53:46.997615+05:30,2018-05-25 15:56:19.792+05:30
+124,158,3,Patient heeds critical care,232,2018-05-26 18:11:47.970669+05:30,232,2018-05-26 18:11:47.970669+05:30,2018-05-26 18:14:21.527+05:30
+125,159,3,Rtrertrertrertrertrertrertrertrertrertrertrertrertytrtytytytytytytytytytytytytytytytytytytytytytyty7Rtrertrertrertrertrertrertrertrertrertrertrertrertytrtytytytytytytytytytytytytytytytytytytytytytyty7Rtrertrertrertrertrertrertrertrertrertrertrertrertytrtytytytytytytytytytytytytytytytytytytytytytyty7Rtrertrertrertrertrertrertrertrertrertrertrertrertytrtytytytytytytytytytytytytytytytytytytytytytyty7Rtrertrertrertrertrertrertrertrertrertrertrertrertytrtytytytytytytytytytytytytytytytytytytytytytyty7,232,2018-05-26 18:14:25.678624+05:30,232,2018-05-26 18:14:25.678624+05:30,2018-05-26 18:16:59.238+05:30
+126,169,3,Tsting,265,2018-05-29 16:30:18.645514+05:30,265,2018-05-29 16:30:18.645514+05:30,2018-05-29 16:32:54.261+05:30
+127,170,1,Vcghhc,265,2018-05-29 16:32:22.503081+05:30,265,2018-05-29 16:32:22.503081+05:30,2018-05-29 16:34:58.12+05:30
+128,170,2,Fhjjhg,265,2018-05-29 16:32:22.503081+05:30,265,2018-05-29 16:32:22.503081+05:30,2018-05-29 16:34:58.12+05:30
+129,171,3,Fyufui,251,2018-05-29 16:35:02.552776+05:30,251,2018-05-29 16:35:02.552776+05:30,2018-05-29 16:37:38.172+05:30
+130,176,1,Add,251,2018-05-30 11:44:31.551253+05:30,251,2018-05-30 11:44:31.551253+05:30,2018-05-30 11:40:23.314+05:30
+131,178,3,Vguyrdmghfv,253,2018-05-30 12:18:10.60047+05:30,253,2018-05-30 12:18:10.60047+05:30,2018-05-30 12:20:46.797+05:30
+132,188,1,HTN plan changed,232,2018-05-31 18:05:47.70588+05:30,232,2018-05-31 18:05:47.70588+05:30,2018-05-31 18:01:37.132+05:30
+133,188,2,Medication Changed for patient,232,2018-05-31 18:05:47.70588+05:30,232,2018-05-31 18:05:47.70588+05:30,2018-05-31 18:01:37.132+05:30
+134,188,3,Hgyytffdfghjutrewdvbmmkkiuttrfbmmkkkkjjhhhhhhhhggghhhj777okmmiiiijkjjkkkkkoooooooooo9Hgyytffdfghjutrewdvbmmkkiuttrfbmmkkkkjjhhhhhhhhggghhhj777okmmiiiijkjjkkkkkoooooooooo9Hgyytffdfghjutrewdvbmmkkiuttrfbmmkkkkjjhhhhhhhhggghhhj777okmmiiiijkjjkkkkkoooooooooo9Hgyytffdfghjutrewdvbmmkkiuttrfbmmkkkkjjhhhhhhhhggghhhj777okmmiiiijkjjkkkkkoooooooooo9Hgyytffdfghjutrewdvbmmkkiuttrfbmmkkkkjjhhhhhhhhggghhhj777okmmiiiijkjjkkkkkoooooooooo9Hgyytffdfghjutrewdvbmmkkiuttrfbmmkkkkjjhhhhhhhhggghhhj777okmmiiiijkjjkkkkko,232,2018-05-31 18:05:47.70588+05:30,232,2018-05-31 18:05:47.70588+05:30,2018-05-31 18:01:37.132+05:30
+135,210,3,Mbvkhvk,223,2018-06-14 12:44:27.079263+05:30,223,2018-06-14 12:44:27.079263+05:30,2018-06-14 12:39:51.113+05:30
+136,219,3,Poiuytrewqadfghjklmnbvcxzs,223,2018-06-14 15:11:04.587435+05:30,223,2018-06-14 15:11:04.587435+05:30,2018-06-14 15:13:51.375+05:30
+137,221,3,Vhbv,223,2018-06-14 15:16:11.717556+05:30,223,2018-06-14 15:16:11.717556+05:30,2018-06-14 15:18:58.509+05:30
+138,237,1,Due to additional comobidities,335,2018-09-06 21:52:26.665725+05:30,335,2018-09-06 21:52:26.665725+05:30,2018-09-06 21:56:11.292+05:30
+139,237,2,High Bp,335,2018-09-06 21:52:26.665725+05:30,335,2018-09-06 21:52:26.665725+05:30,2018-09-06 21:56:11.292+05:30
+140,237,3,Hey testing,335,2018-09-06 21:52:26.665725+05:30,335,2018-09-06 21:52:26.665725+05:30,2018-09-06 21:56:11.292+05:30
+141,241,3,Need to see you as soon as possible ,335,2018-12-24 21:37:48.696413+05:30,335,2018-12-24 21:37:48.696413+05:30,2018-12-24 21:37:48.68+05:30
+142,242,3,Fhj,251,2019-01-27 12:06:53.00896+05:30,251,2019-01-27 12:06:53.00896+05:30,2019-01-27 12:06:53.005+05:30
+143,247,1,Test,111,2019-02-08 12:39:25.651317+05:30,111,2019-02-08 12:39:25.651317+05:30,2019-02-08 12:39:52.899+05:30
+144,248,2,"Test
+",111,2019-02-11 11:53:23.338096+05:30,111,2019-02-11 11:53:23.338096+05:30,2019-02-11 11:53:53.519+05:30
+145,259,3,Yghhunihn8ub8,252,2019-03-06 15:04:00.123867+05:30,252,2019-03-06 15:04:00.123867+05:30,2019-03-06 16:11:53.414+05:30
+146,260,3,Tcttfc,252,2019-05-03 11:51:05.171314+05:30,252,2019-05-03 11:51:05.171314+05:30,2019-05-03 11:51:05.166+05:30
+147,299,1,Chancellor ,524,2019-05-08 11:29:59.299134+05:30,524,2019-05-08 11:29:59.299134+05:30,2019-05-08 11:29:59.294+05:30
+148,299,2,Vice,524,2019-05-08 11:29:59.299134+05:30,524,2019-05-08 11:29:59.299134+05:30,2019-05-08 11:29:59.294+05:30
+149,299,3,Charles ,524,2019-05-08 11:29:59.299134+05:30,524,2019-05-08 11:29:59.299134+05:30,2019-05-08 11:29:59.294+05:30
+150,308,3,"Asd
+",252,2019-07-26 16:23:17.633835+05:30,252,2019-07-26 16:23:17.633835+05:30,2019-07-26 16:23:17.618+05:30
+151,313,2,Coco,252,2019-08-01 12:24:09.19067+05:30,252,2019-08-01 12:24:09.19067+05:30,2019-08-01 12:24:09.184+05:30
+152,313,3,Station,252,2019-08-01 12:24:09.19067+05:30,252,2019-08-01 12:24:09.19067+05:30,2019-08-01 12:24:09.184+05:30
+153,314,3,Oyed,252,2019-08-01 12:25:11.284747+05:30,252,2019-08-01 12:25:11.284747+05:30,2019-08-01 12:25:11.276+05:30
+154,315,1,Jfzjfz,252,2019-08-01 12:27:37.612605+05:30,252,2019-08-01 12:27:37.612605+05:30,2019-08-01 12:27:37.606+05:30
+155,315,2,Oysoyso,252,2019-08-01 12:27:37.612605+05:30,252,2019-08-01 12:27:37.612605+05:30,2019-08-01 12:27:37.606+05:30
+156,315,3,If Zits,252,2019-08-01 12:27:37.612605+05:30,252,2019-08-01 12:27:37.612605+05:30,2019-08-01 12:27:37.606+05:30
+157,317,1,Test,252,2019-08-01 12:47:12.031747+05:30,252,2019-08-01 12:47:12.031747+05:30,2019-08-01 12:47:12.026+05:30
+158,317,2,Test,252,2019-08-01 12:47:12.031747+05:30,252,2019-08-01 12:47:12.031747+05:30,2019-08-01 12:47:12.026+05:30
+159,317,3,Test,252,2019-08-01 12:47:12.031747+05:30,252,2019-08-01 12:47:12.031747+05:30,2019-08-01 12:47:12.026+05:30

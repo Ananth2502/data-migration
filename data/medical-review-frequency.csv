@@ -1,0 +1,15 @@
+"_id",core_type,createdAt,created_by,high_risk,is_active,is_default,is_deleted,low_risk,medical_review_freq,missed_review_days,moderate_risk,submit,title,updatedAt,updated_by,version,virtualId
+5e4a538167f09804815680ed,data,2020-02-17T08:49:05.627Z,5e33d6156bab75001d56d99e,false,true,true,false,false,Every 2 Months,80,true,true,,2020-02-17T08:49:05.627Z,5e33d6156bab75001d56d99e,0,3
+5e4a546067f09804815680fc,data,2020-02-17T08:52:48.869Z,5e33d6156bab75001d56d99e,false,true,false,false,false,Daily,1,false,true,,2020-02-17T08:52:48.869Z,5e33d6156bab75001d56d99e,0,8
+5e4a53a967f09804815680f3,data,2020-02-17T08:49:44.955Z,5e33d6156bab75001d56d99e,false,true,true,false,false,2x Month,30,false,true,,2020-02-17T08:49:44.955Z,5e33d6156bab75001d56d99e,0,5
+5e4a547d67f0980481568102,data,2020-02-17T08:53:17.711Z,5e33d6156bab75001d56d99e,false,true,false,false,false,2x Month,15,false,true,,2020-02-17T08:53:17.711Z,5e33d6156bab75001d56d99e,0,10
+5e4a546e67f09804815680ff,data,2020-02-17T08:53:02.076Z,5e33d6156bab75001d56d99e,false,true,false,false,false,Weekly,7,false,true,,2020-02-17T08:53:02.076Z,5e33d6156bab75001d56d99e,0,9
+5e4a54c167f0980481568111,data,2020-02-17T08:54:25.181Z,5e33d6156bab75001d56d99e,false,true,false,false,false,Every 6 Months,180,false,true,,2020-02-17T08:54:25.181Z,5e33d6156bab75001d56d99e,0,15
+5e4a536a67f09804815680ea,data,2020-02-17T08:48:42.923Z,5e33d6156bab75001d56d99e,true,true,true,false,false,Monthly,45,false,true,,2020-02-17T08:48:42.923Z,5e33d6156bab75001d56d99e,0,2
+5e4a53bc67f09804815680f6,data,2020-02-17T08:50:04.796Z,5e33d6156bab75001d56d99e,false,true,true,false,true,Every 6 Months,210,false,true,,2020-02-17T08:50:04.796Z,5e33d6156bab75001d56d99e,0,6
+5e4a549367f0980481568108,data,2020-02-17T08:53:39.890Z,5e33d6156bab75001d56d99e,false,true,false,false,false,Monthly,30,false,true,,2020-02-17T08:53:39.890Z,5e33d6156bab75001d56d99e,0,12
+5e4a54ac67f098048156810e,data,2020-02-17T08:54:04.454Z,5e33d6156bab75001d56d99e,false,true,false,false,false,Every 3 Months,90,false,true,,2020-02-17T08:54:04.454Z,5e33d6156bab75001d56d99e,0,14
+5e4a54a167f098048156810b,data,2020-02-17T08:53:53.382Z,5e33d6156bab75001d56d99e,false,true,false,false,false,Every 2 Months,60,false,true,,2020-02-17T08:53:53.382Z,5e33d6156bab75001d56d99e,0,13
+5e4a548967f0980481568105,data,2020-02-17T08:53:29.890Z,5e33d6156bab75001d56d99e,false,true,false,false,false,Every 2 Weeks,15,false,true,,2020-02-17T08:53:29.890Z,5e33d6156bab75001d56d99e,0,11
+5e4a539367f09804815680f0,data,2020-02-17T08:49:23.285Z,5e33d6156bab75001d56d99e,false,true,true,false,true,Every 3 Months,110,false,true,,2020-02-17T08:49:23.285Z,5e33d6156bab75001d56d99e,0,4
+5e4a533c67f09804815680e7,data,2020-02-17T08:47:56.346Z,5e33d6156bab75001d56d99e,false,true,true,false,false,Weekly,21,false,true,,2020-02-17T08:47:56.346Z,5e33d6156bab75001d56d99e,0,1
